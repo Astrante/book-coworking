@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/book-coworking/static/css/main.eb533ca2.css",
+    "main.js": "/book-coworking/static/js/main.449a061e.js",
+    "static/js/453.cada3404.chunk.js": "/book-coworking/static/js/453.cada3404.chunk.js",
+    "index.html": "/book-coworking/index.html",
+    "main.eb533ca2.css.map": "/book-coworking/static/css/main.eb533ca2.css.map",
+    "main.449a061e.js.map": "/book-coworking/static/js/main.449a061e.js.map",
+    "453.cada3404.chunk.js.map": "/book-coworking/static/js/453.cada3404.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb533ca2.css",
+    "static/js/main.449a061e.js"
+  ]
+}
